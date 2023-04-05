@@ -51,7 +51,7 @@ Sometimes users may not get added at all, this may be because the account is pro
 
 # Buy me a coffee
 
-https://www.buymeacoffee.com/PythonIncome
+https://www.buymeacoffee.com/PYEasyIncome
 
 # Warning
 
