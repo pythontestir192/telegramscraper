@@ -61,7 +61,7 @@ https://www.buymeacoffee.com/PythonIncome
 
 * I have also created a scraper and adder which lets you add accounts only via phone number(no api needed). If you need it contact me:
  
-[![Telegram Contact](https://img.shields.io/badge/Telegram-Contact-brightgreen)](https://t.me/PythonPassiveIncomeOfficial) 
+[![Telegram Contact](https://img.shields.io/badge/Telegram-Contact-brightgreen)](https://t.me/PYEasyIncome) 
 * If you have any problems regarding the script then write it in this groupchat:
 
 [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/GitHubScriptsHelp)
